@@ -1,5 +1,6 @@
 package person;
 
+/** Doubly linked list supporting traversal in both directions. */
 public class LInkedlist {
     Node head;
     Node tail;
