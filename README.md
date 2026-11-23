@@ -13,4 +13,4 @@ Practice working with a linked list that tracks a `head` and `tail`, and nodes w
 Use package `person` in Eclipse. The source files are `Node.java`, `LInkedlist.java`, and `main.java`.
 
 ## Known learning points
-Keeping `head`, `tail`, `next` and `prev` consistent is important, especially when the list is empty or has one node. The head, tail, next and prev pointer handling has been corrected for insertions, deletions and reversal, and tested with empty, single-node and multi-node lists. This remains a lab exercise.
+Keeping `head`, `tail`, `next` and `prev` consistent is important, especially when the list is empty or has one node. The list maintains head/tail and next/prev pointers during insertion, deletion and reversal. Useful test cases include empty, single-node and multi-node lists. This remains a lab exercise.
